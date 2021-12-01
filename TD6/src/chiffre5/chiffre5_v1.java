@@ -12,4 +12,5 @@ public class chiffre5_v1 {
 		System.out.println("  ___|");
 
 	}
+	
 }
