@@ -10,7 +10,7 @@ public class chiffre5_v1 {
 		System.out.println(" |___");
 		System.out.println("     |");
 		System.out.println("  ___|");
-System.out.println("aaaaaab");
+System.out.println("test a23z1e3az31e");
 	}
 
 }
