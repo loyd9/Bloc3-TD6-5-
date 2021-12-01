@@ -10,8 +10,6 @@ public class chiffre5_v1 {
 		System.out.println(" |___");
 		System.out.println("     |");
 		System.out.println("  ___|");
-		
-		
-		apzhjdmhalmhzdlmhkazd
+
 	}
 }
